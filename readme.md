@@ -53,3 +53,11 @@ Exercise using AJAX calls to the xkcd site and DOM manipulation
   - if you get stuck look at bootstrap or materialize docs
 
 #### When it is done deploy to surge!
+
+#### Bonus See if you can use this function to randomize the comics
+```
+function randomize(min,max) {
+    return Math.floor(Math.random() * (max - min + 1) + min)
+    
+}
+```

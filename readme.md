@@ -1,12 +1,20 @@
-# ajax-drill
+# ajax-drill Do Jquery orrrr
 
 Exercise using AJAX calls to the xkcd site and DOM manipulation
 
-#### Create a file index.html
-#### Create a file app.js
-#### Link jQuery and app.js to index.html
+#### Link jQuery and ajax.js to index.html
 #### Lay out your basic HTML page in index.html
 * don't forget to include your head and body!
+
+# fetch-drill Do a fetch request using pure JS
+
+Exercise using Fetch to the xkcd site and DOM manipulation
+
+#### Link fetch.js to your index.html
+#### Lay out your basic HTML page in index.html
+* don't forget to include your head and body!
+
+# After linking your Fetch or Ajax follow the below instructions!
 
 #### Let's try a basic request to the xkcd API!
 * Use the code provided to make sure your data is logging
